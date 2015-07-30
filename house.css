@@ -1,0 +1,30 @@
+h1 {  
+color: red;
+font-size: 90px;
+}
+
+section {
+
+background-color: yellow;
+
+}
+.bedroom {
+background-color: green;
+}
+
+#bedroom-2 { 
+padding: 10px;
+border: 8px solid black;
+border-radius: 5px;
+}
+
+p { 
+font-size: 20px;
+
+}
+
+section p {
+font-size: 25px
+font-weight: bold;
+																										
+}
